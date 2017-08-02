@@ -47,3 +47,31 @@ https://drive.google.com/drive/u/0/folders/0B6bSLTlVnagfbjBEVFNyb2d2dms
 - 딥바이오  : https://github.com/biospin/DeepBio
 
 
+## Schedule
+
+### Part 1.
+|seq.|    날짜        |     내용                                                                                      
+|----| ---------|----------------------------------------------
+|  1 |2017. 9. 5|(클라우드 서비스)  아마존웹서비스  : 10분 자습서(  Linux VM 시작, 파일 저장및 검색)
+|    |          |(도커 )  가장 빨리 만나는 Docker :  1장 ~ 2장
+|    |          |(베이지안) 베이즈통계학 입문 : 제1강 ~ 제2강 베이즈 추정은 때로 직감에 크게 반한다
+|  2 |2017. 9.12|(클라우드 서비스)  MS 애저  : "Microsoft Azure에서의 인프라 관리 - 시작" 과 "Microsoft Azure Virtual Machines 시작"
+|    |          |(도커 )  가장 빨리 만나는 Docker :  3장  ~ 4장 : Docker 이미지 생성하기
+|    |          |(베이지안)  베이지안 통계 : 1장. 결정이론의 틀 (1)
+|  3 |2017. 9.19|(클라우드 서비스)  구글 클라우드  : "Creating and Starting an Instance" 와 "Connecting to Linux Instances"
+|    |          |(도커 )  가장 빨리 만나는 Docker :  5장  ~ 6장 : Docker 좀더 활용하기
+|    |          |(베이지안) 베이즈통계학 입문 : 제3강 ~ 제4강 ‘확률의 확률’을 사용하여 추정의 폭을 넓힌다  
+|  4 |2017. 9.26|(도커 )  가장 빨리 만나는 Docker :  7장  ~ 8장 : Docker로 애플리케이션 배포하기
+|    |          |(베이지안)  베이지안 통계 : 2장.결정이론의 틀 (2)
+|    |          |(논문읽기 모임)  관심 있는 논문 읽기
+
+
+
+
+
+
+
+
+
+
+
