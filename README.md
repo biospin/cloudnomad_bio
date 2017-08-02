@@ -1,2 +1,49 @@
-# cloudnomad_bio
-í´ë¼ìš°ë“œ ìœ ëª©ë¯¼  
+# Å¬¶ó¿ìµå À¯¸ñ¹Î  ¹ÙÀÌ¿À : Å¬¶ó¿ìµå ¼­ºñ½º¸¦ °ñ¶ó¼­ È°¿ëÇÏ´Â  ¹ÙÀÌ¿ÀÀÎÆ÷¸ŞÆ½½º
+
+<img src="https://github.com/biospin/all_bio/blob/master/main01.jpg"  width="600"  height="500"/>
+
+## ½ºÅÍµğ Á¤º¸
+ÀúÈñ ¸ğÀÓÀº °­ÀÇ½ÄÀÌ ¾Æ´Ñ ÀÚ½ÅÀÌ ½º½º·Î °øºÎÇÑ ³»¿ëÀ» ¿©·¯ »ç¶÷°ú °øÀ¯ÇÏ´Â ½ºÅÍµğ ¹æ½ÄÀÌ¸ç, ½º½º·Î °øºÎÇÏ°íÀÚ ÇÏ´Â ¿­Á¤À» ²À ÁØºñ¹°·Î °¡Áö°í ¿Í ÁÖ½Ã°í, ¿­½ÉÈ÷ ¹ßÇ¥¸¦ ÇØÁÖ½Ã¸é ´õ¿í °¨»çÇÕ´Ï´Ù.
+
+## ÈÄ¿ø»ç
+KossLab : http://devlab.oss.kr/
+
+## °øÀ¯Æú´õ 
+https://drive.google.com/drive/u/0/folders/0B6bSLTlVnagfbjBEVFNyb2d2dms
+
+## ±³Àç Á¤º¸
+1. Å¬¶ó¿ìµå ¼­ºñ½º
+   - ¾Æ¸¶Á¸À¥¼­ºñ½º : https://aws.amazon.com/ko/start-now/
+   - MS ¾ÖÀú : https://azure.microsoft.com/ko-kr/training/free-online-courses/
+   - ±¸±Û Å¬¶ó¿ìµå : https://cloud.google.com/compute/docs/how-to
+
+2. µµÄ¿ 
+   - °¡Àå »¡¸® ¸¸³ª´Â Docker : http://pyrasis.com/book/DockerForTheReallyImpatient/
+   - ¹ÙÀÌ¿À µµÄ¿ ½Ç½À
+       - http://biocontainers.pro/docs/101/intro/
+       - https://github.com/LabAdvComp/rna-seq-docker
+       - GUI docker :  https://github.com/BioDepot/GUIdock-VNC
+
+3. º£ÀÌÁö¾È°ú °­È­ÇĞ½À
+   - º£ÀÌÁîÅë°èÇĞ ÀÔ¹® : http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=130321&barcode=9788965022718&orderClick= 
+   - º£ÀÌÁö¾È Åë°è :  ¹æÅë´ë ±³Àç ( ¹ßÇ¥ÀÚ¿¡°Ô PPT Á¦°ø )
+   - ¸ğµÎ¸¦ À§ÇÑ RL°­ÁÂ : https://www.youtube.com/watch?v=dZ4vw6v3LcA&list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG&index=1
+
+4. ³í¹®ÀĞ±â ¸ğÀÓ
+   - PR12 µö·¯´×  : https://www.youtube.com/playlist?list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS
+   - µö¹ÙÀÌ¿À ³í¹® : https://github.com/gokceneraslan/awesome-deepbio
+   
+
+## Àå¼Ò
+1. Àå¼Ò: ÅäÁî ½ÅÃÌ ¾ÆÆ®¸®¿ÂÁ¡ ( http://www.toz.co.kr/branch/main/index.htm?id=6 )
+2. ¸ÅÁÖ È­¿äÀÏ, Àú³á 7½Ã 30ºĞ~10½Ã
+3. ½ÃÀÛ: 2017³â09¿ù 05ÀÏ
+
+## ÀÌÀü ½ºÅÍµğ ÀÚ·á 
+- ¸ğµÎÀÇ ¹ÙÀÌ¿À : https://github.com/biospin/all_bio
+- ¾Ë¹ÙÀÌ¿ÀÇÃ·¯½º : https://github.com/biospin/R_Bio_Plus 
+- ¾Ë¹ÙÀÌ¿À : https://github.com/biospin/R_Bio
+- ºò¹ÙÀÌ¿À : https://github.com/biospin/BigBio 
+- µö¹ÙÀÌ¿À  : https://github.com/biospin/DeepBio
+
+
