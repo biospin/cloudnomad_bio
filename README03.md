@@ -1,6 +1,6 @@
 # 클라우드   바이오 : 클라우드 서비스를 골라서 활용하는  바이오인포메틱스. 클라우드 유목민이 되자.~~
 
-<img src="https://github.com/biospin/cloudnomad_bio/blob/master/main01.jpg"  width="600"  height="500"/>
+<img src="https://github.com/biospin/cloudnomad_bio/blob/master/main03.jpg"  width="600"  height="500"/>
 
 
 ## 스터디 정보
