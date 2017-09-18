@@ -53,7 +53,7 @@ https://drive.google.com/drive/u/0/folders/0B6bSLTlVnagfbjBEVFNyb2d2dms
 ### Part 1.
 |seq.|    날짜        |     내용                                                                                      
 |----| ---------|----------------------------------------------
-|  1 |2017. 9. 5|(클라우드 서비스)  아마존웹서비스  : 10분 자습서(  Linux VM 시작, 파일 저장및 검색)(이승우)
+|  1 |2017. 9. 5|(클라우드 서비스)[아마존웹서비스 :10분 자습서(Linux VM 시작, 파일 저장및 검색)](https://github.com/jaeseung172/pycker/blob/master/Amazon_10_Minute_Tutorial.pdf)(이승우)
 |    |          |(도커 )  가장 빨리 만나는 Docker :  1장 ~ 2장(임승빈)
 |    |          |(베이지안) [베이즈통계학 입문 : 제1강 ~ 제2강 베이즈 추정은 때로 직감에 크게 반한다](https://github.com/biospin/cloudnomad_bio/blob/master/part01/week1_0905/%EC%84%B8%EC%83%81%EC%97%90%EC%84%B8%EA%B0%80%EC%9E%A5%EC%89%AC%EC%9A%B4%EB%B2%A0%EC%9D%B4%EC%A6%88%ED%86%B5%EA%B3%84%ED%95%99%EC%9E%85%EB%AC%B8_1%EA%B0%952%EA%B0%95.pdf)(지용기)
 |  2 |2017. 9.12|(클라우드 서비스)  MS 애저  : "Microsoft Azure에서의 인프라 관리 - 시작" 과 "Microsoft Azure Virtual Machines 시작"
