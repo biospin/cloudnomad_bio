@@ -78,7 +78,7 @@ https://drive.google.com/drive/u/0/folders/0B6bSLTlVnagfbjBEVFNyb2d2dms
 |  3 |2017.10.24|(도커 )  가장 빨리 만나는 Docker :  11장  ~ 12장 : Microsoft Azure에서 Docker 사용하기
 |    |          |(베이지안) 베이즈통계학 입문 : 7강 ~ 제8강 베이즈 추정은 ‘최우원리’에 근거해 있다 
 |    |          |(논문읽기 모임)  [관심 있는 논문 읽기](https://github.com/biospin/cloudnomad_bio/blob/master/part02/week4_1024/20171024_%EC%8A%A4%ED%84%B0%EB%94%94_%EB%85%BC%EB%AC%B8%EB%B0%9C%ED%91%9C.pdf)(라가영), [ 논문원문 ](https://github.com/biospin/cloudnomad_bio/blob/master/part02/week4_1024/nbt.2877.pdf)
-|  4 |2017.10.31|(도커 )  가장 빨리 만나는 Docker :  13장  ~ 14장 : Docker Remote API 사용하기
+|  4 |2017.10.31|(도커 )  [가장 빨리 만나는 Docker :  13장  ~ 14장 : Docker Remote API 사용하기](https://github.com/biospin/cloudnomad_bio/blob/master/part02/week4_1024/Docker_13%EC%9E%A5_14%EC%9E%A5.pdf)(지용기)
 |    |          |(베이지안)  베이지안 통계 : 4장. 베이지안 추론 II : 추정과 가설검정
 |    |          |(베이지안)  모두를 위한 RL강좌 : 3장 : Dummy Q-learning (table)
 
