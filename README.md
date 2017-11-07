@@ -86,7 +86,7 @@ https://drive.google.com/drive/u/0/folders/0B6bSLTlVnagfbjBEVFNyb2d2dms
 |seq.|    날짜        |     내용                                                                                      
 |----| ---------|----------------------------------------------
 |  1 |2017.11. 7|(도커 )  가장 빨리 만나는 Docker :  15장 : CoreOS 사용하기
-|    |          |(베이지안) 베이즈통계학 입문 : 제9강 ~ 제10강 복수의 정보를 얻었을 때의 추정
+|    |          |(베이지안) [TCGA의 유방암 데이터 수집과 전처리,  EDA](https://github.com/braveji18/mystudy/blob/master/01_school/19_%EB%B2%A0%EC%9D%B4%EC%A7%80%EC%95%88%ED%86%B5%EA%B3%84/%EC%A1%B0%EB%B3%84%EA%B3%BC%EC%A0%9C.ipynb)(지용기)
 |    |          |(베이지안)  모두를 위한 RL강좌 : 4장 : Q-learning (table) exploit&exploration and discounted 
 |  2 |2017.11.14|(도커 )  가장 빨리 만나는 Docker :  16장 : Docker로 워드프레스 블로그 구축하기
 |    |          |(베이지안)  베이지안 통계 : 5장. R의 소개와 이항모형 실습
