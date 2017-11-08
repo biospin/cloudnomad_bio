@@ -33,7 +33,9 @@ https://drive.google.com/drive/u/0/folders/0B6bSLTlVnagfbjBEVFNyb2d2dms
 4. 논문읽기 모임
    - PR12 딥러닝  : https://www.youtube.com/playlist?list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS
    - 딥바이오 논문 : https://github.com/gokceneraslan/awesome-deepbio
-   
+
+## 차후 스터디 
+  - 숭실대학교 김상수 교수님 강의 동영상 유트브 채널 : https://www.youtube.com/user/sskimbio
 
 ## 장소
 1. 장소: 토즈 신촌 본점 ( http://www.toz.co.kr/branch/main/index.htm?id=5 )
@@ -87,10 +89,10 @@ https://drive.google.com/drive/u/0/folders/0B6bSLTlVnagfbjBEVFNyb2d2dms
 |----| ---------|----------------------------------------------
 |  1 |2017.11. 7|(도커 )  가장 빨리 만나는 Docker :  15장 : CoreOS 사용하기
 |    |          |(베이지안) [TCGA의 유방암 데이터 수집과 전처리,  EDA](https://github.com/braveji18/mystudy/blob/master/01_school/19_%EB%B2%A0%EC%9D%B4%EC%A7%80%EC%95%88%ED%86%B5%EA%B3%84/%EC%A1%B0%EB%B3%84%EA%B3%BC%EC%A0%9C.ipynb)(지용기)
-|    |          |(베이지안)  모두를 위한 RL강좌 : 4장 : Q-learning (table) exploit&exploration and discounted 
+|    |          |(베이지안) [ 모두를 위한 RL강좌 : 4장 : Q-learning (table) exploit&exploration and discounted ](https://github.com/biospin/cloudnomad_bio/blob/master/part03/week1_1107/rl04.pdf)(박지혜)
 |  2 |2017.11.14|(도커 )  가장 빨리 만나는 Docker :  16장 : Docker로 워드프레스 블로그 구축하기
 |    |          |(베이지안)  베이지안 통계 : 5장. R의 소개와 이항모형 실습
-|    |          |(논문읽기 모임)  관심 있는 논문 읽기
+|    |          |(논문읽기 모임)  [관심 있는 논문 읽기](https://github.com/biospin/cloudnomad_bio/blob/master/part03/week1_1107/Bioinformatics%20screening%20regarding%20herbal%20components%20that%20targetedly%20regulate.pdf)(라가영)
 |  3 |2017.11.21|(도커 )  가장 빨리 만나는 Docker :  19장 : Docker 활용 시나리오
 |    |          |(베이지안) 베이즈통계학 입문 : 11강 ~ 제12강 베이즈 추정에서는 정보를 순차적으로 사용할 수 있다 
 |    |          |(베이지안)  모두를 위한 RL강좌 : 5장 : Q-learning on Nondeterministic Worlds!
