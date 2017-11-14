@@ -87,11 +87,11 @@ https://drive.google.com/drive/u/0/folders/0B6bSLTlVnagfbjBEVFNyb2d2dms
 ### Part 3.
 |seq.|    날짜        |     내용                                                                                      
 |----| ---------|----------------------------------------------
-|  1 |2017.11. 7|(도커 )  가장 빨리 만나는 Docker :  15장 : CoreOS 사용하기
+|  1 |2017.11. 7|(베이지안)  베이지안 통계 : 5장. R의 소개와 이항모형 실습
 |    |          |(베이지안) [TCGA의 유방암 데이터 수집과 전처리,  EDA](https://github.com/braveji18/mystudy/blob/master/01_school/19_%EB%B2%A0%EC%9D%B4%EC%A7%80%EC%95%88%ED%86%B5%EA%B3%84/%EC%A1%B0%EB%B3%84%EA%B3%BC%EC%A0%9C.ipynb)(지용기)
 |    |          |(베이지안) [ 모두를 위한 RL강좌 : 4장 : Q-learning (table) exploit&exploration and discounted ](https://github.com/biospin/cloudnomad_bio/blob/master/part03/week1_1107/rl04.pdf)(박지혜)
-|  2 |2017.11.14|(도커 )  가장 빨리 만나는 Docker :  16장 : Docker로 워드프레스 블로그 구축하기
-|    |          |(베이지안)  베이지안 통계 : 5장. R의 소개와 이항모형 실습
+|  2 |2017.11.14|(도커 )  가장 빨리 만나는 Docker :  15장 : CoreOS 사용하기
+|    |          |(베이지안) [베이즈통계학 입문 : 제12강 베이즈 추정에서는 정보를 순차적으로 사용할 수 있다, 제13강 베이즈 추정은 정보를 얻을수록 더 정확해진다](https://github.com/biospin/cloudnomad_bio/blob/master/part03/week2_1114/%EB%B2%A0%EC%9D%B4%EC%A6%88%ED%86%B5%EA%B3%84%ED%95%99%EC%9E%85%EB%AC%B8_12%EC%9E%A5_13%EC%9E%A5.pdf)(지용기)
 |    |          |(논문읽기 모임)  [관심 있는 논문 읽기](https://github.com/biospin/cloudnomad_bio/blob/master/part03/week1_1107/Bioinformatics%20screening%20regarding%20herbal%20components%20that%20targetedly%20regulate.pdf)(라가영)
 |  3 |2017.11.21|(도커 )  가장 빨리 만나는 Docker :  19장 : Docker 활용 시나리오
 |    |          |(베이지안) 베이즈통계학 입문 : 11강 ~ 제12강 베이즈 추정에서는 정보를 순차적으로 사용할 수 있다 
