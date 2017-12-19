@@ -36,6 +36,10 @@ https://drive.google.com/drive/u/0/folders/0B6bSLTlVnagfbjBEVFNyb2d2dms
 
 ## 차후 스터디 
   - 숭실대학교 김상수 교수님 강의 동영상 유트브 채널 : https://www.youtube.com/user/sskimbio
+  - R좀R려줘( 기본기부터 탄탄하게 배우는 R ) : http://www.yes24.com/24/goods/55227627 => 저자 2회 특강 
+  - PR12 딥러닝  : https://www.youtube.com/playlist?list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS
+  - 딥바이오 논문 : https://github.com/gokceneraslan/awesome-deepbio  
+
 
 ## 장소
 1. 장소: 토즈 신촌 본점 ( http://www.toz.co.kr/branch/main/index.htm?id=5 )
